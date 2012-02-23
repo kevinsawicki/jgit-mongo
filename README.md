@@ -44,8 +44,8 @@ mvn clean install
 
 ## Dependencies
 
-* JGit 1.0+
-* MongoDB Java Driver 2.6.3+
+* JGit
+* MongoDB Java Driver
 
 ## License
 
